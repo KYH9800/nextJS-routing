@@ -1,2 +1,3 @@
 # nextJS-routing
-### nextJS 중첩 라우팅
+
+### nextJS 중첩 Layout
